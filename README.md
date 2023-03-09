@@ -1,6 +1,6 @@
-# Tiramisu_Shop ☕️
+# Tiramisu Online Shop ☕️
 
-Official website for my Tiramisu Store
+Order my Tiramisu Online!
 
 ## Details
 
@@ -17,3 +17,5 @@ Official website for my Tiramisu Store
   - Others: HTML,CSS, Javascript, Bootstrap,
   - Database: Postgres
   - Version Control: GitHub
+
+## DB
